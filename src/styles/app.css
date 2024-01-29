@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+/* html { 
+  background: url(../assets/back.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
+body {
+  font-family: "Century Gothic", sans-serif;
+  color: white;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+
+:root {
+  background-color: black;
+  --purple:#1f4ee9;
+  --blue: #ffc815;
+  --cyan: #25afce;
+  --transparent: #00000000;
+  --radius-left: 3rem 0 0 3rem;
+  --radius-right: 0 3rem 3rem 0;
+}
+
+button:hover,
+.class-sub-container a:hover,
+.project-item:hover,
+.skill-item:hover,
+.item:not(.active):hover,
+.sub-container-2:not(.active-subheading):hover,
+.sub-container-3:not(.active-subheading):hover {
+  background-image: linear-gradient(90deg, #ffffff00, #ffffff42 50%, #ffffff00);
+}
