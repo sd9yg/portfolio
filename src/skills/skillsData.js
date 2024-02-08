@@ -37,6 +37,14 @@ const skills = {
       
     },
     {
+      title: "Scala",
+     
+    },
+    {
+      title: "python",
+     
+    },
+    {
       title: "Git",
      
     },
