@@ -19,7 +19,7 @@
 
 }
 
-@media (max-width: 430px) {
+ @media (max-width: 430px) {
   .profilepic {
   object-fit: cover;
   width: 45rem;
