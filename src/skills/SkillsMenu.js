@@ -3,6 +3,7 @@ import classNames from "classnames";
 import "../styles/skillsMenu.css";
 import skills from "./skillsData";
 
+
 export default class SkillsMenu extends Component {
   constructor(props) {
     super(props);
@@ -18,12 +19,12 @@ export default class SkillsMenu extends Component {
   };
 
   renderContent = (skills) => {
-    return skills.map((skill, index) => (
+        return skills.map((skill, index) => (      
       <div
         key={index}
         className={`skill-sub-container-${this.state.activeMenuItem}`}
       >
-        <h3>{skill.title}</h3>
+               <h3>&#x2022; {skill.title}</h3>
       </div>
     ));
   };
@@ -42,6 +43,7 @@ export default class SkillsMenu extends Component {
             })}
             onClick={() => this.handleMenuItemClick(index + 1)}
           >
+          {/* <img src="img_girl.jpg" alt={{item}+".png"}></img> */}           
             <h2 className="skill-title">{item}</h2>
           </div>
         ))}

@@ -41,7 +41,7 @@ const skills = {
      
     },
     {
-      title: "python",
+      title: "Python",
      
     },
     {
