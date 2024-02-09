@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8dd85973.css",
-    "main.js": "/portfolio/static/js/main.a7ff5293.js",
+    "main.css": "/portfolio/static/css/main.b9d9266e.css",
+    "main.js": "/portfolio/static/js/main.b94d26b2.js",
+    "static/media/bg.png": "/portfolio/static/media/bg.b306b69631824d84636c.png",
     "static/media/NMM.png": "/portfolio/static/media/NMM.fdd3534814068c5581e1.png",
     "static/media/portfolioImage.png": "/portfolio/static/media/portfolioImage.d9ca04c65df281830934.png",
-    "static/media/weatherApp.png": "/portfolio/static/media/weatherApp.135f71f62f57cec363f5.png",
-    "static/media/bg.png": "/portfolio/static/media/bg.08ebba53b216433f52fd.png",
+    "static/media/name.png": "/portfolio/static/media/name.88842d2793046ae1e72e.png",
     "static/media/projects.png": "/portfolio/static/media/projects.68739fbb91d8cbebbce6.png",
+    "static/media/weatherApp.jpg": "/portfolio/static/media/weatherApp.e53499a3700d9e751550.jpg",
     "static/media/upgrade.png": "/portfolio/static/media/upgrade.d0df01e986c355473ccd.png",
     "static/media/rocket.png": "/portfolio/static/media/rocket.4ce06a4b32a4c50671d7.png",
     "static/media/skills.png": "/portfolio/static/media/skills.e4f6444e11602ccec2d0.png",
     "static/media/woman.png": "/portfolio/static/media/woman.e3002145fb2efe031c9e.png",
     "index.html": "/portfolio/index.html",
-    "main.8dd85973.css.map": "/portfolio/static/css/main.8dd85973.css.map",
-    "main.a7ff5293.js.map": "/portfolio/static/js/main.a7ff5293.js.map"
+    "main.b9d9266e.css.map": "/portfolio/static/css/main.b9d9266e.css.map",
+    "main.b94d26b2.js.map": "/portfolio/static/js/main.b94d26b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd85973.css",
-    "static/js/main.a7ff5293.js"
+    "static/css/main.b9d9266e.css",
+    "static/js/main.b94d26b2.js"
   ]
 }
