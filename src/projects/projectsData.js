@@ -1,6 +1,6 @@
 import NMM from "../assets/NMM.png";
 import portfolioImage from "../assets/portfolioImage.png"
-import weatherApp from "../assets/weatherApp.png"
+import weatherApp from "../assets/weatherApp.jpg"
 
 const projects = {
   1: {
